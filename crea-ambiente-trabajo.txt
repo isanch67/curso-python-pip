@@ -1,0 +1,41 @@
+  424  mkdir py-project
+  425  cd py-project
+  426  code .
+  427  ll
+  428  python3 hello.py 
+  429  python3 hello.py 
+  430  ll
+  431  git ini
+  432  git init
+  433  ll
+  434  ls 
+  435  ls la
+  436  ls -la
+  437  git remote -v
+  438  git remote add origin git@github.com:isanch67/curso-python-pip.git
+  439  git remote -v
+  440  git add *
+  441  git commit -m 'Mi primer archivo'
+  442  git push origin master:main
+  443  git pull origin main
+  444  git pull --help
+  445  git push origin master:main --allow-unrelated-histories
+  446  git push origin master:main --allow-unrelated
+  447* git push origin master:main 
+  448  git push origin master:main --allow-unrelated-histories
+  449  git pull origin main
+  450  git pull origin main --allow-unrelated-histories
+  451  git push origin master:main 
+  452  git commit -am 'adds files' 
+  453  git push origin master:main
+  454  ll
+  455  git status
+  456  git add *
+  457  git status
+  458  git add .
+  459  git status
+  460  git commit -m 'adds .gitignore'
+  461  git push origin master:main
+  462  git history
+  463  history
+  464  history > crea-ambiente-trabajo.txt
